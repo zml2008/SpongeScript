@@ -1,0 +1,13 @@
+# IntelliJ
+
+idea/
+*.ipr
+*.iml
+
+# OS X
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+dependency-reduced-pom.xml
